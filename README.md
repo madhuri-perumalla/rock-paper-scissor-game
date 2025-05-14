@@ -28,5 +28,7 @@ A modern, colorful implementation of the classic Rock Paper Scissors game.
 - HTML5
 - CSS3 with animations and flexbox
 - Vanilla JavaScript
+## Play Game By The Link Below
+  https://madhuri-perumalla.github.io/rock-paper-scissor-game/
 
 Enjoy the game!
